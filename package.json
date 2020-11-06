@@ -27,6 +27,7 @@
     "gatsby-plugin-meta-redirect": "^1.1.1",
     "gatsby-plugin-offline": "^3.1.2",
     "gatsby-plugin-react-helmet": "^3.2.4",
+    "gatsby-plugin-react-svg": "^3.0.0",
     "gatsby-plugin-sass": "2.3.1",
     "gatsby-plugin-sharp": "2.6.36",
     "gatsby-plugin-sitemap": "^2.0.5",
@@ -42,6 +43,7 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0",
     "react-tabs": "3.1.0",
+    "svg-react-loader": "^0.4.6",
     "throttle-debounce": "^2.3.0",
     "typescript": "3.9.2"
   },
